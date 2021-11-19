@@ -129,7 +129,7 @@ const server = http.createServer((req, res) => {
                     <table class='table table-striped table-bordered w-75 mx-auto'>
                         <thead>
                             <tr>
-                                <th scope='col'>Nom</th>
+                                <th scope='col'>Prénom</th>
                                 <th scope='col'>Date de naissance</th>
                                 <th scope='col'></th>
                             </tr>
